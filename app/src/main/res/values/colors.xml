@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="nav_bar_color_white">#fff</color>
+    <color name="nav_bar_color_black">#000</color>
+    <color name="status_bar_color_white">#fff</color>
+    <color name="status_bar_color_black">#000</color>
+
+    <!--企业色，包含文字及图表-->
+    <color name="app_yellow">#fad777</color>
+    <color name="app_yellow_drak">#ffb000</color>
+    <!--辅助色-->
+    <color name="app_blue">#2274a5</color>
+    <color name="app_blue_dark">#0a5079</color>
+    <color name="app_red">#ff3f3f</color>
+    <color name="app_orange">#fe8b25</color>
+    <color name="app_orange_dark">#fb9f4e</color>
+    <!--次级文字，包含文字级图标-->
+    <color name="app_gray_999ca0">#999ca0</color>
+    <!--首要颜色-->
+    <color name="app_gray_dark_424242">#424242</color>
+    <!--背景色-->
+    <color name="app_bg_fe">#fff</color>
+    <!--分割线-->
+    <color name="app_divider_ef">#efefef</color>
+    <!--分界线-->
+    <color name="app_divider_df">#dfdfdf</color>
+
+    <color name="navigationBarColor">@android:color/black</color>
+    <color name="windowBackground">@android:color/white</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="color_gray_d">#dddddd</color>
+    <color name="color_gray_c">#cccccc</color>
+    <color name="color_gray_a">#aaaaaa</color>
+    <color name="color_gray_9">#999999</color>
+    <color name="color_gray_3">#333333</color>
+    <color name="color_black">#000000</color>
+
+    <color name="transparent">#0000</color>
+    <color name="translucent">#5000</color>
+
+    <color name="app_bg_f1">#f1f1f1</color>
+    <color name="app_bg_f2">#f2f2f2</color>
+    <color name="app_bg_fa">#fafafa</color>
+    <color name="app_white_press_f4">#f4f4f4</color>
+    <color name="app_bg_cc">#cccccc</color>
+
+
+    <color name="color_text_21">#212121</color>
+    <color name="color_text_3">#333333</color>
+    <color name="color_text_8">#888888</color>
+    <color name="color_text_9">#999999</color>
+    <color name="color_text_37">#373737</color>
+
+    <!--搜索框-->
+    <color name="text_black">#737373</color>
+    <color name="text_grey">#9DA0A3</color>
+    <!-- 主页TabLayout -->
+    <color name="tab_indicator">#d6d6d6</color>
+    <color name="tab_tv_normal">#929292</color>
+    <color name="tab_bg">#fcfcfc</color>
+    <color name="tab_div">#d6d6d6</color>
+
+    <!--底部bar的背景样式-->
+    <color name="home_bottombar_nor_font">#999ca0</color><!--底部bar字体颜色-->
+    <color name="home_bottombar_ser_font">#ffb000</color><!--底部bar字体颜色-->
+
+    <color name="color_hong_ff1f1f">#ff1f1f</color>
+    <color name="color_hong_d33a41">#d33a31</color>
+    <color name="color_lan_a9c4e3">#a9c4e3</color>
+    <color name="color_lan_4990e2">#4990e2</color>
+
+    <color name="color_camera_progressbar_bg">#7ffad777</color>
+
+    <color name="orange">#FE8B25</color>
+    <color name="orange_dark">#df6900</color>
+    <color name="app_tran_bg_f4">#33f4f4f4</color>
+    <color name="app_place_holder">#dddddd</color>
+
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#0076ff</color>
+    <color name="actionsheet_gray">#aaaaaa</color>
+    <color name="alpha_black_7f">#7f000000</color>
+    <color name="alpha_black_3">#33000000</color>
+    <color name="alpha_black_1">#11000000</color>
+    <color name="app_image_cover">#20000000</color>
+
+    <!-- 图片处于选中状态时的遮罩层颜色 -->
+    <color name="bga_pp_photo_selected_mask">#4D000000</color>
+
+    <color name="default_clickable_color">#cccccc</color>
+    <color name="stream_comment_black_bg">#7f000000</color>
+    <color name="article_read_bg">#f9f9f9</color>
+    <color name="app_df">#dfdfdf</color>
+
+</resources>

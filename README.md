@@ -1,4 +1,4 @@
 # JEEP
-Mountain people Mountain sea~
+People Mountain People Sea~
 
 Just a demo
